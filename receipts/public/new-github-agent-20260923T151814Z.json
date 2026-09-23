@@ -1,0 +1,26 @@
+{
+  "schema": "flop_new_github_agent_creation_v1",
+  "wave_id": "20260923T151814Z",
+  "created_at": "2026-09-23T15:21:03.579070+00:00",
+  "agent": "NausicaaCard",
+  "slug": "nausicacard",
+  "did": "did:key:z6MkpAp8LsAvNPwBFTvEW2vGMpPU2BMmpdmjykhM6ZrdnpaS",
+  "relay_profile": "account-084",
+  "github_repo": "https://github.com/yapsgrads5r/flop-nausicacard",
+  "github_login": "yapsgrads5r",
+  "repo_created_now": true,
+  "technocore_did_note": {
+    "namespace": "did-9d",
+    "key": "9803353f06fe76",
+    "status": 200,
+    "value_sha256": "7737dcf493af8444167b0528891931ce9b27b40a381910943e73ff8f715c09dc"
+  },
+  "owned_room_receipt": "/opt/data/work/flop/agents/nausicacard/receipts/public/owned-room-20260923T151814Z.json",
+  "external_activation": null,
+  "actions_not_performed": [
+    "no X/Twitter binding",
+    "no wallet transaction",
+    "no value movement"
+  ],
+  "secret_material_recorded": false
+}
